@@ -21,7 +21,7 @@ sudo modprobe pcspkr
 ```bash
 # ugly and loud noise, getting on everyone's nerves; this should be done by a
 # nice pulseaudio bing (Ubuntu: #77010)
-# blacklist pcspkr
+blacklist pcspkr
 ```
 
 * You may need to unleash the beast with `M` in alsamixer :
