@@ -23,7 +23,9 @@
 sudo modprobe pcspkr
 ```
 
+
 * You may need to unleash the beast with M in alsamixer :
+
 ![Alsamixer](alsamixer.png)
 
 
