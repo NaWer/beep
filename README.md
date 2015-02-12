@@ -12,17 +12,17 @@
 
 # HOW TO BEEP (Ubuntu / Debian flavour) :
 
-* Delete this hurtful statements in /etc/modprobe.d/blacklist.conf :
+* Load this wonderfull module :
+```bash
+sudo modprobe pcspkr
+```
+
+* Delete permanantly this hurtful statements in `/etc/modprobe.d/blacklist.conf` :
 ```bash
 # ugly and loud noise, getting on everyone's nerves; this should be done by a
 # nice pulseaudio bing (Ubuntu: #77010)
 # blacklist pcspkr
 ```
-* Or load this wonderfull module :
-```bash
-sudo modprobe pcspkr
-```
-
 
 * You may need to unleash the beast with M in alsamixer :
 
