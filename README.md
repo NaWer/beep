@@ -24,7 +24,7 @@ sudo modprobe pcspkr
 # blacklist pcspkr
 ```
 
-* You may need to unleash the beast with M in alsamixer :
+* You may need to unleash the beast with `M` in alsamixer :
 
 ![Alsamixer](alsamixer.png)
 
