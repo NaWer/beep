@@ -17,7 +17,7 @@
 sudo modprobe pcspkr
 ```
 
-* Delete permanantly this hurtful statements in `/etc/modprobe.d/blacklist.conf` :
+* Delete permanently this hurtful statements in `/etc/modprobe.d/blacklist.conf` :
 ```bash
 # ugly and loud noise, getting on everyone's nerves; this should be done by a
 # nice pulseaudio bing (Ubuntu: #77010)
