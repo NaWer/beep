@@ -5,8 +5,9 @@
 # NEED :
 * UTF-8
 * Only one beep command (if possible) : easily killable
-* 5 spaces indentation : size of `beep_`
-* Punched card style (80 characters line width) : readable diff
+* 5 spaces indentation : size of `beep` + space
+* New line on `-n` and options space aligned : readable diff
+* Punched card style (80 characters line width)
 
 ![Ruler](rulez.png)
 
