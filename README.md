@@ -2,7 +2,7 @@
 ♫ A collection of bash scripts playing various music using beep ♫
 
 
-# NEEDED :
+## NEEDED :
 
 * UTF-8
 * Only one beep command (if possible) : easily killable
@@ -13,7 +13,7 @@
 ![Ruler](rulez.png)
 
 
-# HOW TO BEEP (Ubuntu / Debian flavour) :
+## HOW TO BEEP (Ubuntu / Debian flavour) :
 
 * Load this wonderfull module :
 ```bash
@@ -33,8 +33,8 @@ blacklist pcspkr
 
 
 
+## TODO :
 
-# TODO :
 * http://ubuntuforums.org/showthread.php?t=1157670
 * http://ubuntuforums.org/showthread.php?t=1157670&page=4
 * http://blog.dhampir.no/content/fun-with-beep
