@@ -2,7 +2,8 @@
 ♫ A collection of bash scripts playing various music using beep ♫
 
 
-# NEED :
+# NEEDED :
+
 * UTF-8
 * Only one beep command (if possible) : easily killable
 * 5 spaces indentation : size of `beep` + space
