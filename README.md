@@ -34,7 +34,6 @@ blacklist pcspkr
 
 
 ## TODO :
-* https://github.com/jamdart/beep/commit/95dbf0e560f0b940611d2a3f2d712fd3df84426c
 * https://github.com/sohooo/beep/commit/9480b678e693cfdccee031f432783ccc0fa1c852
 * http://ubuntuforums.org/showthread.php?t=1157670
 * http://ubuntuforums.org/showthread.php?t=1157670&page=4
