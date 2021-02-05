@@ -2,7 +2,7 @@
 ♫ A collection of bash scripts playing various music using beep ♫
 
 
-## NEEDED
+## NEEDED FOR ANY PR
 
 * UTF-8
 * Only one beep command (if possible) : easily killable
