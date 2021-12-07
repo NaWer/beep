@@ -34,34 +34,34 @@ C3=1046.50
 
 #First
 
-beep -f $G -l 250
-beep -f $G -l 500
-beep -f $G -l 250
-beep -f $G -l 250
-
-beep -f $A1 -l 250
-beep -f $C -l 250
-beep -f $G -l 250
-beep -f $G -l 250
-beep -f $G -l 250
-beep -f $G -l 250
-beep -f $F -l 250
-beep -f $F1 -l 250
-beep -f $G -l 500
-beep -f 10 -l 500
-
-beep -f $G -l 250
-beep -f $G -l 500
-beep -f $G -l 250
-beep -f $G -l 250
-
-beep -f $A1 -l 250
-beep -f $C -l 250
-beep -f $G -l 250
-beep -f $G -l 250
-beep -f $G -l 250
-beep -f $G -l 250
-beep -f $F -l 250
-beep -f $F1 -l 250
-beep -f $G -l 500
-beep -f 10 -l 500
+beep    -f $G  -l 250 \
+     -n -f $G  -l 500 \
+     -n -f $G  -l 250 \
+     -n -f $G  -l 250 \
+     \
+     -n -f $A1 -l 250 \
+     -n -f $C  -l 250 \
+     -n -f $G  -l 250 \
+     -n -f $G  -l 250 \
+     -n -f $G  -l 250 \
+     -n -f $G  -l 250 \
+     -n -f $F  -l 250 \
+     -n -f $F1 -l 250 \
+     -n -f $G  -l 500 \
+     -n -f 10  -l 500 \
+     \
+     -n -f $G  -l 250 \
+     -n -f $G  -l 500 \
+     -n -f $G  -l 250 \
+     -n -f $G  -l 250 \
+     \
+     -n -f $A1 -l 250 \
+     -n -f $C  -l 250 \
+     -n -f $G  -l 250 \
+     -n -f $G  -l 250 \
+     -n -f $G  -l 250 \
+     -n -f $G  -l 250 \
+     -n -f $F  -l 250 \
+     -n -f $F1 -l 250 \
+     -n -f $G  -l 500 \
+     -n -f 10  -l 500
